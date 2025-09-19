@@ -1,4 +1,4 @@
-> Ma passion, bien plus qu'un métier !
+**"Ma passion, bien plus qu'un métier !"** - Magali MAI
 
 # À propos de moi
 
