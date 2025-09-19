@@ -37,6 +37,11 @@ Je suis également sérieuse dans les projets que j’entreprends et vais jusqu�
 #### Outils
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
+## Statistiques
+
+![Stats GitHub](https://github-readme-stats.vercel.app/api?username=galima10&show_icons=true&theme=radical)
+
+
 <!--
 **galima10/galima10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
