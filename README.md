@@ -1,4 +1,14 @@
-## Hi there 👋
+# À propos de moi
+
+Étudiante en développement web pour me former et devenir développeur Full-Stack.
+
+Je suis passionnée par la programmation et j'aime apprendre chaque jour de nouvelles compétences dans de nouveaux domaines du digital pour progresser. 
+
+Mon investissement sans faille me permet d'apprendre et de m'exercer toujours plus dans le monde du digital.
+
+Je suis également sérieuse dans les projets que j’entreprends et vais jusqu’au bout de ceux-ci.
+
+
 
 <!--
 **galima10/galima10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
