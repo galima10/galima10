@@ -1,3 +1,5 @@
+> Ma passion, bien plus qu'un métier !
+
 # À propos de moi
 
 Étudiante en développement web pour me former et devenir développeur Full-Stack.
