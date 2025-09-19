@@ -45,7 +45,6 @@ Je suis également sérieuse dans les projets que j’entreprends et vais jusqu�
 ## Statistiques
 
 ![Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=galima10&layout=compact&theme=radical)
-![Stats GitHub](https://github-readme-stats.vercel.app/api?username=galima10&show_icons=true&theme=radical)
 
 
 
