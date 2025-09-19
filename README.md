@@ -26,6 +26,8 @@ Je suis également sérieuse dans les projets que j’entreprends et vais jusqu�
 ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 #### Design
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
@@ -34,6 +36,8 @@ Je suis également sérieuse dans les projets que j’entreprends et vais jusqu�
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white)
 ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&logo=adobeindesign&logoColor=white)
 
+#### Outils
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
 <!--
 **galima10/galima10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
