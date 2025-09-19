@@ -10,7 +10,7 @@ Je suis également sérieuse dans les projets que j’entreprends et vais jusqu�
 
 ## Réseaux sociaux
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn)](https://www.linkedin.com/in/mai-magali/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mai-magali/)
 
 <!--
 **galima10/galima10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
