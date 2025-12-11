@@ -26,7 +26,6 @@ la logique, la création, les défis, les solutions qu’on trouve un peu comme 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
-![Elementor](https://img.shields.io/badge/Elementor-92003B?style=for-the-badge)
 ![Elementor](https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
@@ -43,11 +42,10 @@ la logique, la création, les défis, les solutions qu’on trouve un peu comme 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
 ![WampServer](https://img.shields.io/badge/WampServer-CC00AA?style=for-the-badge)
-![WampServer](https://img.shields.io/badge/WampServer-CC00AA?style=for-the-badge&logo=windows&logoColor=white)
 
 ## Statistiques Github
 
-![Langages]([https://github-readme-stats.vercel.app/api/top-langs/?username=galima10&layout=compact&theme=radical](http://github-stats-eta-seven.vercel.app/))
+![Langages](https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=galima10&layout=compact&theme=radical)
 
 
 
