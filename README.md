@@ -1,75 +1,53 @@
 > *"Ma passion, bien plus qu'un métier !"* - Magali MAI
 
-# À propos de moi
+Moi, c’est Magali.
+Et ce que je souhaite faire, c'est d'être développeuse Full-Stack.
 
-Étudiante en développement web pour me former et devenir développeur Full-Stack.
+Ce qui me plaît dans ce domaine c’est le mélange de :
+la logique, la création, les défis, les solutions qu’on trouve un peu comme des pièces de puzzle.
 
-Je suis passionnée par la programmation et j'aime apprendre chaque jour de nouvelles compétences dans de nouveaux domaines du digital pour progresser. 
-
-Mon investissement sans faille me permet d'apprendre et de m'exercer toujours plus dans le monde du digital.
-
-Je suis également sérieuse dans les projets que j’entreprends et vais jusqu’au bout de ceux-ci.
-
-### Réseaux sociaux
-
+### Retrouvez moi sur
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mai-magali/)
 
-## Compétences
+## Mes technologies
 
-#### Développement
-- *Langages*
-<br><br>
+### Langages maîtrisés
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-- *Frameworks et Librairies*
-<br><br>
+### Frameworks & Librairies
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
-- *Environnement*
-<br><br>
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+### Outils é Logiciels
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-
-- *ORM*
-<br><br>
-![Prisma](https://img.shields.io/badge/Prisma-0C344B?style=for-the-badge&logo=prisma&logoColor=white)
-
-- *CMS*
-<br><br>
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![Elementor](https://img.shields.io/badge/Elementor-92003B?style=for-the-badge)
+![Elementor](https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-#### Design
-
-- *Webdesign*
-<br><br>
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-- *Design graphique*
-<br><br>
-![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white)
-![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&logo=adobeindesign&logoColor=white)
-
-#### Outils
-
-- *Gestion de projets*
-<br><br>
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+### Abordés
+![Prisma](https://img.shields.io/badge/Prisma-0C344B?style=for-the-badge&logo=prisma&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
+![WampServer](https://img.shields.io/badge/WampServer-CC00AA?style=for-the-badge)
+![WampServer](https://img.shields.io/badge/WampServer-CC00AA?style=for-the-badge&logo=windows&logoColor=white)
 
 ## Statistiques Github
 
-![Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=galima10&layout=compact&theme=radical)
+![Langages]([https://github-readme-stats.vercel.app/api/top-langs/?username=galima10&layout=compact&theme=radical](http://github-stats-eta-seven.vercel.app/))
 
 
 
