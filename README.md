@@ -43,12 +43,6 @@ la logique, la création, les défis, les solutions qu’on trouve un peu comme 
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
 ![WampServer](https://img.shields.io/badge/WampServer-CC00AA?style=for-the-badge)
 
-## Statistiques Github
-
-![Langages](https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=galima10&layout=compact&theme=radical)
-
-
-
 <!--
 **galima10/galima10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
