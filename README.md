@@ -4,9 +4,10 @@ Moi, c’est Magali.
 Et ce que je souhaite faire, c'est d'être développeuse Full-Stack.
 
 Ce qui me plaît dans ce domaine c’est le mélange de :
+<br>
 la logique, la création, les défis, les solutions qu’on trouve un peu comme des pièces de puzzle.
 
-### Retrouvez moi sur
+### Retrouvez moi sur :
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mai-magali/)
 
 ## Mes technologies
@@ -22,7 +23,7 @@ la logique, la création, les défis, les solutions qu’on trouve un peu comme 
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
-### Outils é Logiciels
+### Outils & Logiciels
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
